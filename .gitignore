@@ -1,0 +1,34 @@
+.DS_Store
+
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/
+.phpintel/
+.vscode/
+.editorconfig
+.prettierrc.json
+
+# Config Files
+#-------------------------
+.env
+
+#node_modules
+#-------------------------
+node_modules/
+
+# build
+#-------------------------
+build
+coverage
+
+# yarn
+#-------------------------
+yarn-error.log
+
+# composer
+#-------------------------
+package-lock.json
+
+# Sentry Config File
+.env.sentry-build-plugin
